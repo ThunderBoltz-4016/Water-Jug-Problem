@@ -1,0 +1,5 @@
+{
+  "name": "Water Jug Solver BFS",
+  "description": "A visual solver for the classic Water Jug Problem using Breadth-First Search, featuring step-by-step visualization and AI-powered solution analysis.",
+  "requestFramePermissions": []
+}
